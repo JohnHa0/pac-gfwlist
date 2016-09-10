@@ -60,6 +60,7 @@ var rules = [
   "||javhub.net",
   "||javhuge.com",
   ".javlibrary.com",
+  "||javpop.com",
   "||javlibrary.com",
   "||javseeds.com",
   "||juliepost.com",
