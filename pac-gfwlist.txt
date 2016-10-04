@@ -4710,6 +4710,7 @@ var rules = [
   "xyy69.com",
   "xyy69.info",
   "page.bid.yahoo.com",
+  "answers.yahoo.com",
   "blogs.yahoo.co.jp",
   "buy.yahoo.com.tw/gdsale",
   "hk.yahoo.com",
