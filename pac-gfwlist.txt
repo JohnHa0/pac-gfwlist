@@ -1271,6 +1271,7 @@ var rules = [
   "|http://drmingxia.org",
   "||dropbox.com",
   "||dropboxusercontent.com",
+  "||dropboxstatic.com",
   "drsunacademy.com",
   ".drtuber.com",
   ".dscn.info",
