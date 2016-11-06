@@ -804,6 +804,7 @@ var rules = [
   "falun.caltech.edu",
   ".its.caltech.edu/~falun/",
   ".cam4.com",
+  "||cosplayjav.pl",
   ".cam4.jp",
   ".cam4.sg",
   ".camfrog.com",
