@@ -2500,7 +2500,7 @@ var rules = [
   ".latibet.org",
   "||le-vpn.com",
   ".leafyvpn.net",
-  ".livedoor.jp",
+  "||livedoor.jp",
   "||leafyvpn.net",
   "lefora.com",
   "||left21.hk",
