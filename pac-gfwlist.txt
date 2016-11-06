@@ -1777,6 +1777,7 @@ var rules = [
   "||gaymap.cc",
   ".gaytube.com",
   ".gazotube.com",
+  "||gfycat.com",
   "||gazotube.com",
   "||gcc.org.hk",
   "||gclooney.com",
