@@ -4563,6 +4563,7 @@ var rules = [
   ".wikileaks.org",
   "||wikileaks.org",
   "||wikileaks.pl",
+  "||wikiwand.com",
   ".wikileaks-forum.com",
   "||collateralmurder.com",
   "||collateralmurder.org",
