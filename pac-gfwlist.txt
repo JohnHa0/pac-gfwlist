@@ -83,6 +83,7 @@ var rules = [
   "||mvg.jp",
   "|http://www.nbc.com/live",
   "||netflix.com",
+  "||nytstyle.com",
   "|http://mo.nightlife141.com",
   "||nordstrom.com",
   "||nordstromimage.com",
