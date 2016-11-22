@@ -2243,6 +2243,7 @@ var rules = [
   "|http://www.imdb.com/name/nm0482730",
   ".imdb.com/title/tt0819354",
   ".img.ly",
+  "||imgur.com",
   "||img.ly",
   ".imkev.com",
   "||imkev.com",
