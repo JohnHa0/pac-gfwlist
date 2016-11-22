@@ -3740,6 +3740,8 @@ var rules = [
   "||surfeasy.com",
   ".suyangg.com",
   "||9gag.com",
+  "9gag.com",
+  "||9cache.com",
   "|http://suyangg.com",
   ".suoluo.org",
   "api.supertweet.net",
